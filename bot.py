@@ -20,7 +20,6 @@ BOT_ID = client.api_call("auth.test")['user_id']
 message_counts = {}
 WelcomeMessages = {}
 
-
 #! test bad words
 BAD_WORDS = ['bad', 'stop', 'dumb', 'stupid']
 
